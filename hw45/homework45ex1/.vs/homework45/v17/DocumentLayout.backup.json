@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|c:\\users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\site\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\dumbhttpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\dumbhttpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\site\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\site\\page1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29C68D3-25CF-482C-8A52-EBBBED1931B0}|homework45\\homework45.csproj|solutionrelative:homework45\\site\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\style.css",
+              "RelativeDocumentMoniker": "homework45\\site\\style.css",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\style.css",
+              "RelativeToolTip": "homework45\\site\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T12:37:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page2.html",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page2.html",
+              "RelativeDocumentMoniker": "homework45\\site\\page2.html",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page2.html",
+              "RelativeToolTip": "homework45\\site\\page2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T12:37:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page1.html",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page1.html",
+              "RelativeDocumentMoniker": "homework45\\site\\page1.html",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\page1.html",
+              "RelativeToolTip": "homework45\\site\\page1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T12:37:35.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\index.html",
+              "RelativeDocumentMoniker": "homework45\\site\\index.html",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\site\\index.html",
+              "RelativeToolTip": "homework45\\site\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T12:36:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DumbHttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\DumbHttpServer.cs",
+              "RelativeDocumentMoniker": "homework45\\DumbHttpServer.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\DumbHttpServer.cs",
+              "RelativeToolTip": "homework45\\DumbHttpServer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:35:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\Program.cs",
+              "RelativeDocumentMoniker": "homework45\\Program.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\homework45ex1\\homework45\\Program.cs",
+              "RelativeToolTip": "homework45\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:34:18.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

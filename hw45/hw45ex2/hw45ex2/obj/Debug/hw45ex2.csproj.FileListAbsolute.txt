@@ -1,0 +1,7 @@
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\bin\Debug\hw45ex2.exe.config
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\bin\Debug\hw45ex2.exe
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\bin\Debug\hw45ex2.pdb
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\obj\Debug\hw45ex2.csproj.AssemblyReference.cache
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\obj\Debug\hw45ex2.csproj.CoreCompileInputs.cache
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\obj\Debug\hw45ex2.exe
+C:\Users\ad0rfin\source\repos\hw45ex2\hw45ex2\obj\Debug\hw45ex2.pdb
